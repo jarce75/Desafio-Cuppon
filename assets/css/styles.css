@@ -1,0 +1,19 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+.logo {
+    width: 86px;
+}
+
+.texto-cupon {
+    color: #28A745;
+}
+
+.bg-cuppon {
+    background-color: #28A745;
+}
